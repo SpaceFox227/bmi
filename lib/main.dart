@@ -60,7 +60,7 @@ class FirstScreen extends StatelessWidget {
               Navigator.pushNamed(context, '/second');
             },
             child: Text(
-            "Flat Button",
+            "Calculate",
             style: TextStyle(fontSize: 20.0),
             ),
           )
